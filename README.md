@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orybin479
-- 👀 I’m interested in ios devlopment 
-- 🌱 I’m currently learning swfit 
+- 👀 I’m interested in Web and ios devlopment, 
+- 🌱 I’m currently learning swfit, HTML, CSS, Javasvript
 - 💞️ I’m looking to collaborate with anyone 
 - 📫 How to reach me at facebook https://www.facebook.com/bobby202678/ 
 
