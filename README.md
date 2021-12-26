@@ -2,7 +2,10 @@
 - 👀 I’m interested in Web and ios devlopment, 
 - 🌱 I’m currently learning swfit, HTML, CSS, Javasvript
 - 💞️ I’m looking to collaborate with anyone 
-- 📫 How to reach me at facebook https://www.facebook.com/bobby202678/ 
+- 📫 How to reach me at 
+- 718-902-9075
+-  email at olegrybin101@gmail.com 
+- facebook https://www.facebook.com/bobby202678/ 
 
 <!---
 orybin479/orybin479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
