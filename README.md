@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning swfit, HTML, CSS, Javasvript
 - 💞️ I’m looking to collaborate with anyone 
 - 📫 How to reach me at 
-- 718-902-9075
+
 -  email at olegrybin101@gmail.com 
 - facebook https://www.facebook.com/bobby202678/ 
 
